@@ -1,0 +1,20 @@
+1. Add Database CRUD operations to above MVC web application using JDBC Classes.
+2. Develop a structured dynamic web application(e.g. Library Management System) using
+servlets, deploy it in Tomcat.
+3. Use HTTP session in the air ticket reservation system.
+4. Separate UI code from the controller code in your Library Management System by
+incorporating JSP and Servlets.
+5. Complete the implementation of Air Ticket Reservation System.
+6. Implement MVC based web application using JSP and Servlets.
+7. Demonstrate Hibernate as standalone library in Java application.
+8. Develop a web application (Online Bookshop) using Hibernate Persistence.
+9. Design and deploy Library Management System using Spring Web.
+10. Create Hello World Spring Boot Web application.
+11. Check Libraries imported by Spring Boot.
+12. Create Spring Boot CRUD application with Thymeleaf as View technology.
+13. Create REST API for Employee Management using Spring Boot.
+14. Invoke it from another Spring Boot Web application using REST Template.
+15. Design & Test Spring Application.
+16. Secure the Spring Web application created in earlier exercise. Sessions 28, 29 & 30: (6T+ 6L+
+3SL).
+17. Demonstration of Spring Boot Microservices
